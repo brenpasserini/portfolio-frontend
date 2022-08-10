@@ -1,2 +1,3 @@
-# portfolio-frontend
-Maquetado del Front End. Proyecto realizado en Argentina Programa.
+# Portfolio Front End
+
+En dicho proyecto se presenta un Portfolio, el cual es realizado en base a los temas vistos en el módulo 2 de Argentina Programa.
